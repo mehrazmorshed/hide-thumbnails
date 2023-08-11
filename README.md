@@ -1,0 +1,2 @@
+# hide-thumbnails
+WordPress Plugin
